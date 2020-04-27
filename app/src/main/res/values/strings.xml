@@ -1,0 +1,12 @@
+<resources>
+
+  <string name="splash_image_content">Splash</string>
+  <string name="product_image_desc">Ice Cream Image</string>
+
+  <string name="app_name">StoreDemo</string>
+
+  <string name="order_format_zero">Add Items first</string>
+  <string name="order_format_other">Order %1$d Items</string>
+  <string name="total_format">Total: %s</string>
+  <string name="products_title">Welcome</string>
+</resources>
